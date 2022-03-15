@@ -7,7 +7,7 @@ void decipher();
 
 /*
     To run this program use a compiler like g++ 
-    example (linux): g++ mycipher.cpp -o mycipher
+    example (linux): g++ cipher.cpp -o cipher
 
 
     App limitations:
